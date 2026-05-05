@@ -56,7 +56,7 @@ Interfaz de usuario de materiales, colores de acento y colores dinámicos (Andro
 
 
 ```
-Copyright © 2026 Valeri Gokadze
+Copyright © 2026 Elias Alessio
 
 Beatly es un software gratuito con licencia GPL v3.0
 Se distribuye con la esperanza de que sea de utilidad, pero SIN NINGUNA GARANTÍA;
