@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/gokadzev/Musify/raw/master//assets/Musify-banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/img/banner-03.jpg" width="100%">
 Musify
 Unlock the full potential of music: Stream effortlessly with one app!
 ![Stars](https://img.shields.io/github/stars/gokadzev/Musify?style=flat-square&color=D3BEAB)
