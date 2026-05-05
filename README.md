@@ -29,7 +29,7 @@ Sin anuncios <br/>
 Sin suscripciones <br/>
 Actualizador integrado <br/>
 Ecualizador incorporado con preajustes <br/>
-21 idiomas compatibles <br/>
+Multi idioma <br/>
 Interfaz de usuario de materiales, colores de acento y colores dinámicos (Android 12+) <br/>
 
 </center>
