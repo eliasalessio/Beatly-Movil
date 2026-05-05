@@ -1,20 +1,30 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/img/banner-03.jpg" width="100%">
-Musify
-Unlock the full potential of music: Stream effortlessly with one app!
-![Stars](https://img.shields.io/github/stars/gokadzev/Musify?style=flat-square&color=D3BEAB)
-![Forks](https://img.shields.io/github/forks/gokadzev/Musify?style=flat-square&color=D3BEAB)
-![Downloads](https://img.shields.io/github/downloads/gokadzev/Musify/total?style=flat-square&color=D3BEAB)
-![GitHub release](https://img.shields.io/github/v/release/gokadzev/Musify?color=D3BEAB)
-![License](https://img.shields.io/github/license/gokadzev/Musify?color=D3BEAB)
+
+# Beatly
+
+Libera todo el poder de la música: reproduce, descubre y disfruta sin límites, todo en una sola app.
+
+[![Stars](https://img.shields.io/github/stars/eliasalessio/Beatly-Movil?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movilstargazers)
+[![Forks](https://img.shields.io/github/forks/eliasalessio/Beatly-Movil?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/fork)
+[![Downloads](https://img.shields.io/github/downloads/eliasalessio/Beatly-Movil/total?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/releases)
+[![GitHub release](https://img.shields.io/github/v/release//eliasalessio/Beatly-Movil?color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/releases)
+[![License](https://img.shields.io/github/license/eliasalessio/Beatly-Movil?color=D3BEAB)](LICENSE)
+
 ---
+
 <a href="https://ko-fi.com/gokadzev" target="_blank" title="ko-fi">
   <img src="https://github.com/user-attachments/assets/1c204507-d124-4b34-878b-96c39c9bb3f8"  alt="ko-fi badge" style="width: 150px;">
 </a>
 
+
+
 ---
-Features
+
+## Features
+
 <center>
+
 Online song search with suggestions <br/>
 Offline listening support <br/>
 Import & export your data and never lose it <br/>
@@ -28,19 +38,30 @@ Built-in updater <br/>
 Built-in equalizer with presets <br/>
 21 supported languages <br/>
 Material UI & accent colors & dynamic colors (Android 12+) <br/>
+
 </center>
 
----
-Screenshots
-![Screenshot 1](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/01.jpg)	![Screenshot 2](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/02.jpg)	![Screenshot 3](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/03.jpg)	![Screenshot 4](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/04.jpg)
 
 ---
-Download
 
-<img src="https://github.com/gokadzev/Musify/raw/master/.github/assets/get-it-on-github.png" alt="Get it on Github" height="80">
-<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on Fdroid" height="80">
+## Screenshots
+
+| ![Screenshot 1](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/01.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/02.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/03.jpg) | ![Screenshot 4](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/04.jpg) |
+|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+
+
 ---
-License
+
+## Download
+
+
+[<img src="https://github.com/gokadzev/Musify/raw/master/.github/assets/get-it-on-github.png" alt="Get it on Github" height="80">](https://github.com/gokadzev/Musify/releases/latest)
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on Fdroid" height="80">](https://f-droid.org/packages/com.gokadzev.musify.fdroid)
+
+---
+
+## License
+
 
 ```
 Copyright © 2026 Valeri Gokadze
@@ -49,6 +70,7 @@ Musify is a free software licensed under GPL v3.0
 It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
+
 ```
 Being Open Source doesn't mean you can just make a copy of the app and upload it on playstore or sell
 a closed source copy of the same.
@@ -65,18 +87,31 @@ with all your source code CLEARLY DISCLOSED on any code hosting platform like Gi
 how to obtain the original software, should clearly STATE ALL CHANGES made and should RETAIN all copyrights.
 Use of this software under any "non-free" license is NOT permitted.
 ```
-See the GNU General Public License for more details.
+
+See the [GNU General Public License](https://github.com/gokadzev/Musify/blob/master/LICENSE) for more details.
+
 ---
-Contribute
-Contributions are always welcome. Please read our contributing guidelines before contributing.
+
+## Contribute
+
+Contributions are always welcome. Please read our [contributing guidelines](https://github.com/gokadzev/Musify/blob/master/CONTRIBUTING.md) before contributing.
+
 ---
-F.A.Q
-You can see frequently asked questions and their answers here.
+
+## F.A.Q
+
+You can see frequently asked questions and their answers [here](https://github.com/gokadzev/Musify/discussions/728).
+
 ---
-Credits
-Musify - Original inspiration for the concept and app name, while our implementation took a different direction with a complete rewrite, a rebranded logo, and a redesigned layout and UI.
+
+## Credits
+
+[Musify](https://github.com/Harsh-23/Musify) - Original inspiration for the concept and app name, while our implementation took a different direction with a complete rewrite, a rebranded logo, and a redesigned layout and UI.
+
 ---
-Disclaimer
+
+## Disclaimer
+
 ```
 Musify does not possess or maintain any association with the songs and other content accessible through the app.
 All songs and other content are the property of their respective owners and are safeguarded by copyright law.
@@ -87,4 +122,6 @@ any other parties resulting from the utilization of the songs and other content 
 By using the app, you consent to utilizing the songs and other content exclusively for personal,
 non-commercial purposes and in accordance with all applicable laws and regulations.
 ```
+
 ---
+
