@@ -5,7 +5,7 @@
 
 Libera todo el poder de la música: reproduce, descubre y disfruta sin límites, todo en una sola app.
 
-[![Stars](https://img.shields.io/github/stars/eliasalessio/Beatly-Movil?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movilstargazers)
+[![Estrellas](https://img.shields.io/github/stars/eliasalessio/Beatly-Movil?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movilstargazers)
 [![Forks](https://img.shields.io/github/forks/eliasalessio/Beatly-Movil?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/fork)
 [![Downloads](https://img.shields.io/github/downloads/eliasalessio/Beatly-Movil/total?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/releases)
 [![GitHub release](https://img.shields.io/github/v/release/eliasalessio/Beatly-Movil?color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/releases)
