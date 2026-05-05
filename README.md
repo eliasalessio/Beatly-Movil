@@ -8,36 +8,29 @@ Libera todo el poder de la música: reproduce, descubre y disfruta sin límites,
 [![Stars](https://img.shields.io/github/stars/eliasalessio/Beatly-Movil?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movilstargazers)
 [![Forks](https://img.shields.io/github/forks/eliasalessio/Beatly-Movil?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/fork)
 [![Downloads](https://img.shields.io/github/downloads/eliasalessio/Beatly-Movil/total?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/releases)
-[![GitHub release](https://img.shields.io/github/v/release//eliasalessio/Beatly-Movil?color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/releases)
+[![GitHub release](https://img.shields.io/github/v/release/eliasalessio/Beatly-Movil?color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/releases)
 [![License](https://img.shields.io/github/license/eliasalessio/Beatly-Movil?color=D3BEAB)](LICENSE)
 
----
-
-<a href="https://ko-fi.com/gokadzev" target="_blank" title="ko-fi">
-  <img src="https://github.com/user-attachments/assets/1c204507-d124-4b34-878b-96c39c9bb3f8"  alt="ko-fi badge" style="width: 150px;">
-</a>
-
-
 
 ---
 
-## Features
+## Características
 
 <center>
 
-Online song search with suggestions <br/>
-Offline listening support <br/>
-Import & export your data and never lose it <br/>
-Add custom playlists with link <br/>
-Optimized sound experience <br/>
-SponsorBlock support <br/>
-Lyrics support <br/>
-No ads <br/>
-No subscriptions <br/>
-Built-in updater <br/>
-Built-in equalizer with presets <br/>
-21 supported languages <br/>
-Material UI & accent colors & dynamic colors (Android 12+) <br/>
+Búsqueda de canciones online con sugerencias <br/>
+Soporte para escuchar sin conexión <br/>
+Importa y exporta tus datos y no los pierdas nunca <br/>
+Añade listas de reproducción personalizadas con enlace <br/>
+Experiencia de sonido optimizada <br/>
+Soporte de SponsorBlock <br/>
+Soporte de letras <br/>
+Sin anuncios <br/>
+Sin suscripciones <br/>
+Actualizador integrado <br/>
+Ecualizador incorporado con preajustes <br/>
+21 idiomas compatibles <br/>
+Interfaz de usuario de materiales, colores de acento y colores dinámicos (Android 12+) <br/>
 
 </center>
 
@@ -46,81 +39,52 @@ Material UI & accent colors & dynamic colors (Android 12+) <br/>
 
 ## Screenshots
 
-| ![Screenshot 1](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/01.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/02.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/03.jpg) | ![Screenshot 4](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/04.jpg) |
+| ![Screenshot 1](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/01.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/02.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/03.jpg) | ![Screenshot 4](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/04.jpg) |
 |----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 
 ---
 
-## Download
+## Descarga
 
 
-[<img src="https://github.com/gokadzev/Musify/raw/master/.github/assets/get-it-on-github.png" alt="Get it on Github" height="80">](https://github.com/gokadzev/Musify/releases/latest)
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on Fdroid" height="80">](https://f-droid.org/packages/com.gokadzev.musify.fdroid)
+[<img src="https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/img/get-it-on-github.png" alt="Obtener en Github" height="80">](https://github.com/eliasalessio/Beatly-Movil/releases/latest)
 
 ---
 
-## License
+## Licencia
 
 
 ```
 Copyright © 2026 Valeri Gokadze
 
-Musify is a free software licensed under GPL v3.0
-It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Beatly es un software gratuito con licencia GPL v3.0
+Se distribuye con la esperanza de que sea de utilidad, pero SIN NINGUNA GARANTÍA;
+sin siquiera la garantía implícita de COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR.
 ```
 
-```
-Being Open Source doesn't mean you can just make a copy of the app and upload it on playstore or sell
-a closed source copy of the same.
-Read the following carefully:
-1. Any copy of a software under GPL must be under same license. So you can't upload the app on a closed source
-  app repository like PlayStore/AppStore without distributing the source code.
-2. You can't sell any copied/modified version of the app under any "non-free" license.
-   You must provide the copy with the original software or with instructions on how to obtain original software,
-   should clearly state all changes, should clearly disclose full source code, should include same license
-   and all copyrights should be retained.
+Consulte la [Licencia pública general GNU] (https://github.com/eliasalessio/Beatly-Movil/blob/main/LICENSE) para obtener más detalles.
 
-In simple words, You can ONLY use the source code of this app for `Open Source` Project under `GPL v3.0` or later
-with all your source code CLEARLY DISCLOSED on any code hosting platform like GitHub, with clear INSTRUCTIONS on
-how to obtain the original software, should clearly STATE ALL CHANGES made and should RETAIN all copyrights.
-Use of this software under any "non-free" license is NOT permitted.
-```
-
-See the [GNU General Public License](https://github.com/gokadzev/Musify/blob/master/LICENSE) for more details.
 
 ---
 
-## Contribute
+## Preguntas Frecuentes
 
-Contributions are always welcome. Please read our [contributing guidelines](https://github.com/gokadzev/Musify/blob/master/CONTRIBUTING.md) before contributing.
+Puede ver las preguntas frecuentes y sus respuestas [aquí](https://github.com/eliasalessio/Beatly-Movil/discussions).
 
----
-
-## F.A.Q
-
-You can see frequently asked questions and their answers [here](https://github.com/gokadzev/Musify/discussions/728).
-
----
-
-## Credits
-
-[Musify](https://github.com/Harsh-23/Musify) - Original inspiration for the concept and app name, while our implementation took a different direction with a complete rewrite, a rebranded logo, and a redesigned layout and UI.
 
 ---
 
 ## Disclaimer
 
 ```
-Musify does not possess or maintain any association with the songs and other content accessible through the app.
-All songs and other content are the property of their respective owners and are safeguarded by copyright law.
-Musify holds no liability for any copyright infringement or other violations of intellectual property rights
-that may arise from the use of the songs and other content accessible through the app.
-Musify employs third-party plugins and assumes no responsibility for any harm or damage to the respective owners or
-any other parties resulting from the utilization of the songs and other content through the third-party plugins.
-By using the app, you consent to utilizing the songs and other content exclusively for personal,
-non-commercial purposes and in accordance with all applicable laws and regulations.
+Beatly no posee ni mantiene ninguna asociación con las canciones y otros contenidos accesibles a través de la aplicación.
+Todas las canciones y otros contenidos son propiedad de sus respectivos dueños y están protegidos por las leyes de derechos de autor.
+Beatly no asume ninguna responsabilidad por cualquier infracción de derechos de autor u otras violaciones de los derechos de propiedad intelectual que puedan surgir del uso de las canciones y otros contenidos accesibles a través de la aplicación.
+Beatly emplea complementos de terceros y no asume ninguna responsabilidad por ningún daño o perjuicio a los respectivos propietarios o
+cualquier otra parte resultante de la utilización de las canciones y otro contenido a través de complementos de terceros.
+Al utilizar la aplicación, usted acepta utilizar las canciones y otro contenido exclusivamente para fines personales,
+fines no comerciales y de acuerdo con todas las leyes y regulaciones aplicables.
 ```
 
 ---
