@@ -10,5 +10,5 @@
 * Soporte de letras
 * Sin anuncios
 * Sin suscripciones
-* 21 idiomas admitidos
+* Multi idioma
 * Interfaz de usuario de material, colores de acento y colores dinámicos (Android 12+)
