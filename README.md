@@ -75,12 +75,13 @@ Puede ver las preguntas frecuentes y sus respuestas [aquí](https://github.com/e
 
 ---
 
-## Disclaimer
+## Descargo de responsabilidad
 
 ```
 Beatly no posee ni mantiene ninguna asociación con las canciones y otros contenidos accesibles a través de la aplicación.
 Todas las canciones y otros contenidos son propiedad de sus respectivos dueños y están protegidos por las leyes de derechos de autor.
-Beatly no asume ninguna responsabilidad por cualquier infracción de derechos de autor u otras violaciones de los derechos de propiedad intelectual que puedan surgir del uso de las canciones y otros contenidos accesibles a través de la aplicación.
+Beatly no asume ninguna responsabilidad por cualquier infracción de derechos de autor u otras violaciones de los derechos de propiedad intelectual.
+que puedan surgir del uso de las canciones y otros contenidos accesibles a través de la aplicación.
 Beatly emplea complementos de terceros y no asume ninguna responsabilidad por ningún daño o perjuicio a los respectivos propietarios o
 cualquier otra parte resultante de la utilización de las canciones y otro contenido a través de complementos de terceros.
 Al utilizar la aplicación, usted acepta utilizar las canciones y otro contenido exclusivamente para fines personales,
