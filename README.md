@@ -39,8 +39,8 @@ Interfaz de usuario de materiales, colores de acento y colores dinámicos (Andro
 
 ## Screenshots
 
-| ![Screenshot 1](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/01.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/02.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/03.jpg) | ![Screenshot 4](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/04.jpg) | ![Screenshot 5](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/05.jpg) | ![Screenshot 6](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/06.jpg)
-|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| ![Screenshot 1](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/01.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/02.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/03.jpg) | ![Screenshot 4](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/04.jpg) |
+|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 
 ---
