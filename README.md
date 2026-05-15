@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/img/banner-03.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/img/banner.jpg" width="100%">
 
 # Beatly
 
